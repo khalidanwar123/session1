@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 this is a test file first line added localluyy
 secon commit
 third commit.
 fourth commit
-=======
-this is a test file first line added localluyy
->>>>>>> parent of 4d80c87... seconf commit
+
