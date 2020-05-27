@@ -2,5 +2,7 @@ this is a test file first line added localluyy
 secon commit
 third commit.
 fourth commit
-changes for incorrect ammend
-
+changes for correct ammend
+for squash 1
+for squash 2
+for squash 3
